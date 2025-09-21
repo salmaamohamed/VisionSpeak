@@ -1,0 +1,7 @@
+streamlit
+gtts
+langdetect
+pytesseract
+pdf2image
+pillow
+openai-whisper
