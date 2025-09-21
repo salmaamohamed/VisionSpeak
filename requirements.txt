@@ -2,6 +2,8 @@ streamlit
 gtts
 langdetect
 pytesseract
-pdf2image
+pdfplumber
 pillow
 openai-whisper
+torch
+
